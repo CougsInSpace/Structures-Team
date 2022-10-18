@@ -1,5 +1,5 @@
 # Structures Team
-## Team Lead: James Hallstrom
+## Project Lead: Regan Mills
 
 Project Title:
 P-Pod (Poly Picosatellite) Orbital Deployer Replica
