@@ -3,13 +3,13 @@ Structures Team
 Project Title:
 P-Pod (Poly Picosatellite) Orbital Deployer Replica
 
-Project Lead: TBA (Was Regan Mills)
+Project Lead: TBA (Was Regan Mills) 
 
 Description:
 The Poly Picosatellite Orbital Deployer (P-POD) is a standard deployment system that ensures
 all CubeSat developers conform to common physical requirements. The P-POD plays a critical
 role as the interface between the launch vehicle and CubeSats. The P-POD utilizes a tubular
-design and can hold up to 340.5mm x 100mm x 100mm of deployable hardware.
+design and can hold up to 340.5mm x 100mm x 100mm of deployable hardware. 
 
 Current Progress:
 1 assembly
